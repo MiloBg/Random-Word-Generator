@@ -20,7 +20,7 @@ Colors:
 }
 
 body {
-    background-image: url('img/Eltz-Castle.jpg');
+    background-image: url(img/Eltz-Castle.jpg);
     background-color: #0B4F6C;
     background-blend-mode: overlay;
     background-size: cover;
